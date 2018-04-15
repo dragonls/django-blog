@@ -99,3 +99,12 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# PyCharm
+.idea
+
+# secret things
+secret.py
+
+# Django migrations
+migrations
